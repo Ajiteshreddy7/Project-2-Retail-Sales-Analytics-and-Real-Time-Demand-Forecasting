@@ -63,7 +63,7 @@ Once you have completed the tasks and generated the output files:
 1. Add the changes to your GitHub repository:
 ```bash
 git add .
-git commit -m "Completed Spark SQL Assignment"
+git commit -m "Completed Project-2"
 git push origin main
 ```
 
