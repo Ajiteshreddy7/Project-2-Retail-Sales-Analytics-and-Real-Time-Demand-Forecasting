@@ -54,3 +54,19 @@ This project provides hands-on experience in building a large-scale data process
 
 ## Summary
 This project integrates PySpark DataFrames, Spark SQL, MLlib, and Spark Streaming to tackle end-to-end data engineering and machine learning workflows in a retail setting. Students will reinforce skills in data transformation, modeling, and real-time analytics, building a comprehensive foundation in PySpark and Big Data processing.
+
+
+---
+
+## **Commit and Push Your Work**
+Once you have completed the tasks and generated the output files:
+1. Add the changes to your GitHub repository:
+```bash
+git add .
+git commit -m "Completed Spark SQL Assignment"
+git push origin main
+```
+
+2. Ensure that all code and output files (CSV files) are pushed to your repository.
+
+---
