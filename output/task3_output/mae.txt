@@ -1,0 +1,1 @@
+Mean Absolute Error (MAE) on test data = 184.58947680897765
