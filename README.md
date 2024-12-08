@@ -1,4 +1,4 @@
-# Project-2-Retail-Sales-Analytics-and-Real-Time-Demand-Forecasting_PRASHANTH_LAKKAKULA
+# Project-2-Retail-Sales-Analytics-and-Real-Time-Demand-Forecasting
 
 ## Project Overview
 This project provides hands-on experience in building a large-scale data processing pipeline for demand forecasting, customer sentiment analysis, and real-time analytics for a retail company. It integrates historical data analysis, real-time monitoring, and predictive modeling, creating a complex workflow.
